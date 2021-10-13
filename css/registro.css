@@ -1,0 +1,21 @@
+
+body{
+    background:rgb(110, 222, 240);
+}
+#centro{
+    max-width: 1000px;
+    padding: 30px;
+    box-sizing:border-box;
+    background: rgb(15, 108, 155);
+    margin: 0 auto;
+    border-radius: 20px 20px 20px 20px;
+    color: rgb(190, 148, 64);
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
+#centro a{
+  text-align: center;
+  font-size: 30px;
+  color: rgb(191, 240, 241);
+}
